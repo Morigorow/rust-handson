@@ -1,0 +1,7 @@
+/Users/morizoo/Projects/Rust_Projects/Rust_Tutorial/grep_2/target/debug/deps/libproc_macro_error_attr-2d38539cc1a599e0.dylib: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/parse.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/settings.rs
+
+/Users/morizoo/Projects/Rust_Projects/Rust_Tutorial/grep_2/target/debug/deps/proc_macro_error_attr-2d38539cc1a599e0.d: /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/lib.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/parse.rs /Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/settings.rs
+
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/lib.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/parse.rs:
+/Users/morizoo/.cargo/registry/src/github.com-1ecc6299db9ec823/proc-macro-error-attr-1.0.4/src/settings.rs:
